@@ -1,0 +1,15 @@
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\bin\Debug\net6.0\задача2_1.exe
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\bin\Debug\net6.0\задача2_1.deps.json
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\bin\Debug\net6.0\задача2_1.runtimeconfig.json
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\bin\Debug\net6.0\задача2_1.dll
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\bin\Debug\net6.0\задача2_1.pdb
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\задача2_1.csproj.AssemblyReference.cache
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\задача2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\задача2_1.AssemblyInfoInputs.cache
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\задача2_1.AssemblyInfo.cs
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\задача2_1.csproj.CoreCompileInputs.cache
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\задача2_1.dll
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\refint\задача2_1.dll
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\задача2_1.pdb
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\задача2_1.genruntimeconfig.cache
+C:\Users\tem-k\Desktop\Практика 2\задача2_1\obj\Debug\net6.0\ref\задача2_1.dll
